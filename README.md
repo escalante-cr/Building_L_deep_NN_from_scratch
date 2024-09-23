@@ -1,0 +1,1 @@
+This is part of DeepLearning.AI's specialization in Deep Learning. Use the document to review procedures used in setting up features, weights, and biases for forward propagation, backward propagation, gradient descent, and parameter updates. Uses ReLu activation functions for L-1 layers and Sigmoid activation for the output layer. This example assumes only 1 output neuron.
